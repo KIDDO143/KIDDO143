@@ -4,7 +4,7 @@
 
 <h5><b>Ahem Ahem</b></h5>
 <h5>
-<pre align="center">You will always & forever be my boo.
+<pre align="left">You will always & forever be my boo.
 No matter what situation we may go through.
 Through thick & thin, you’ll always be my best friend.
 You’ll be my boo 💕💕
@@ -12,5 +12,5 @@ You’ll be my boo 💕💕
 
 <br><br><br>
 
-<p align="right">And yes, I break the Matrix 😉</p>
+<p align="right">And yes, I break the Matrix 😁</p>
 <img height="50" alt="Open in PC" width="100%" src="https://github.com/KIDDO143/KIDDO143/raw/master/.asset/marquee.svg" />
